@@ -1,20 +1,10 @@
 h1 {
     text-align: center;
-    margin-top: 50px;    
+    margin-top: 50px;
+      
 }
 
-body#para {
-
-font-family: 'Courier New', Courier, monospace;
-
-
-
+#para {
+    /* font-family: 'Courier New', Courier, monospace; */
+    text-align: center;    
 }
-
-body h1#h1head {
-
-    text-align: center;
-    
-    font-size: 4.3em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
