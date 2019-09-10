@@ -60,9 +60,8 @@ body h1#h1head {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
-    body#up {
+body#up {
 
-background-color: rgb()
+background-color: rgb(165, 184, 209);
 
-
-    }
+}
