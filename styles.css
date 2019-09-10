@@ -10,3 +10,11 @@ font-family: 'Courier New', Courier, monospace;
 
 
 }
+
+body h1#h1head {
+
+    text-align: center;
+    
+    font-size: 4.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
