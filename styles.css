@@ -1,12 +1,18 @@
 h1 {
     text-align: center;
     margin-top: 50px;
-      
+    
+}
+
+.home-header {
+    position: relative;
+    top: -150px;
 }
 
 #para {
     /* font-family: 'Courier New', Courier, monospace; */
-    text-align: center;    
+    text-align: center;
+    font-size: 30px;    
 }
 /* Nav Bar*/
 .nav-link 
@@ -23,6 +29,7 @@ h1 {
 nav
 {
     opacity: 0.85;
+    background-color: transparent !important;
 }
 .navbar-expand-md .navbar-collapse 
 {
