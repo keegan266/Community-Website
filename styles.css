@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 h1 {
     text-align: center;
     margin-top: 50px;
@@ -14,6 +16,7 @@ h1 {
     text-align: center;
     font-size: 30px;    
 }
+>>>>>>> 3b7e37494960ec78b016a46930046eff4ff1b1c7
 /* Nav Bar*/
 .nav-link 
 {
@@ -45,3 +48,17 @@ a.nav-link:hover
 {
     border-bottom: 3px solid #444;
 }
+
+/*Paragraph*/
+h1 {
+    text-align: center;
+    margin-top: 50px;    
+}
+body#para {
+    font-family: 'Courier New', Courier, monospace;
+}
+body h1#h1head {
+    text-align: center;
+    font-size: 4.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
