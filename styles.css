@@ -1,33 +1,44 @@
+/* Nav Bar*/
+.nav-link 
+{
+    font-family: 'Teko', sans-serif;
+    color: #444;
+    text-align: center;
+    padding-left: 20px;
+}
+.navbar-nav {
+    padding: 20px;
+    padding-bottom: 0px;
+}
+nav
+{
+    opacity: 0.85;
+}
+.navbar-expand-md .navbar-collapse 
+{
+    flex-direction: column;
+    align-items: flex-end;
+}
+a.nav-link
+{
+    padding-bottom: 30px;
+    border-bottom: 3px solid transparent
+}
+a.nav-link:hover
+{
+    border-bottom: 3px solid #444;
+}
+
+/*Paragraph*/
 h1 {
     text-align: center;
     margin-top: 50px;    
 }
-
-
-
-
-/*body styles*/
-
 body#para {
-
     font-family: 'Courier New', Courier, monospace;
-
-
-
 }
-
 body h1#h1head {
-
     text-align: center;
-    
     font-size: 4.3em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
-
-    body#up {
-
-
-
-background-color: rgb(151, 192, 194) ;
-
     }
