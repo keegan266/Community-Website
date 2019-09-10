@@ -1,3 +1,19 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.home-header {
+    position: relative;
+    top: -150px;
+}
+
+#para {
+    /* font-family: 'Courier New', Courier, monospace; */
+    text-align: center;
+    font-size: 30px;    
+}
 /* Nav Bar*/
 .nav-link 
 {
@@ -13,6 +29,7 @@
 nav
 {
     opacity: 0.85;
+    background-color: transparent !important;
 }
 .navbar-expand-md .navbar-collapse 
 {
@@ -28,17 +45,3 @@ a.nav-link:hover
 {
     border-bottom: 3px solid #444;
 }
-
-/*Paragraph*/
-h1 {
-    text-align: center;
-    margin-top: 50px;    
-}
-body#para {
-    font-family: 'Courier New', Courier, monospace;
-}
-body h1#h1head {
-    text-align: center;
-    font-size: 4.3em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
