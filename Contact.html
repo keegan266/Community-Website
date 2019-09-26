@@ -35,9 +35,23 @@
           
         </div>
       </nav>   
-<h1 id="h1head">Contact us.</h1>
+      <h1 id="h1head">Contact us.</h1>
 
-<hr />
+      <hr />
+      
+      <form method='get' id="theForm">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" placeholder="Name">
+            <div id="nErr"></div>
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="text" class="form-control" id="phone" placeholder="Phone Number">
+            <div id="pErr"></div>
+          </div>
+          <button type="button" class="btn btn-dark" id="submit">Submit</button>
+        </form>
 
 
  <!-- Optional JavaScript -->
