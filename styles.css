@@ -89,7 +89,15 @@ clear: both;
 
 .TheForm {
 margin: auto;
- width: 70%;   
+ position: relative;  
+}
+
+.centerIt {
+
+height: auto;
+width: auto;
+position: absolute;
+left: 36%;
 
 }
 
