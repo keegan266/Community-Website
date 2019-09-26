@@ -70,3 +70,19 @@ body h1#h1head {
 body#up {
     background-color: rgb(165, 184, 209);
 }
+
+
+.column {
+
+float: left;
+width: 50%;
+
+}
+
+.row:after {
+
+content: "";
+display: table;
+clear: both;
+
+}
