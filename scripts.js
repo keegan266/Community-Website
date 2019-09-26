@@ -40,9 +40,9 @@ document.getElementById('submit').addEventListener('click', function ()
         frm.email.style.border = "solid 2px red";
         isValid = false;
     }
-    else if(!frm.email.value.match(/\.(com|net|edu)/))
+    else if(!frm.email.value.match(/\.(com|net|edu|org)/))
     {
-        document.getElementById('eErr').innerHTML = "Must contain an '.com', '.net', or '.edu'";
+        document.getElementById('eErr').innerHTML = "Must contain an '.com', '.net', '.edu', or '.org'";
         frm.email.style.border = "solid 2px red";
         isValid = false;
     }
